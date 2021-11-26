@@ -44,4 +44,6 @@ we can see some of the design pattern that we use day to day to help make our co
 5. [DesignPatternsPHP Repo](https://github.com/DesignPatternsPHP/DesignPatternsPHP)
 6. [mastering-php-design-patterns PDF](https://github.com/muthukumarse/books-1/blob/master/mastering-php-design-patterns/mastering-php-design-patterns.pdf)
 7. [laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices)
-
+8. [ADR Pattern]( http://pmjones.io/adr/)
+9. [Hexagonal Architecture](https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html )
+10. [Object Calisthenics]( http://williamdurand.fr/2013/06/03/object-calisthenics/)
