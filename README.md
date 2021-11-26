@@ -39,3 +39,5 @@ we can see some of the design pattern that we use day to day to help make our co
 ## References
 1. [Video : Colin Decarlo - Design Patterns with Laravel ](https://www.youtube.com/watch?v=e4ugSgGaCQ0)
 2. [Book : Laravel Design Patterns and Best Practices PDF ](https://github.com/muthukumarse/books-1/blob/master/Laravel%20Design%20Patterns%20and%20Best%20Practices.pdf)
+3. [PHP The Right Way](https://phptherightway.com/pages/Design-Patterns.html)
+4. [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/en/latest/README.html)
