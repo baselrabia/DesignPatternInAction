@@ -41,4 +41,7 @@ we can see some of the design pattern that we use day to day to help make our co
 2. [Book : Laravel Design Patterns and Best Practices PDF ](https://github.com/muthukumarse/books-1/blob/master/Laravel%20Design%20Patterns%20and%20Best%20Practices.pdf)
 3. [PHP The Right Way](https://phptherightway.com/pages/Design-Patterns.html)
 4. [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/en/latest/README.html)
-5. [mastering-php-design-patterns PDF](https://github.com/muthukumarse/books-1/blob/master/mastering-php-design-patterns/mastering-php-design-patterns.pdf)
+5. [DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)
+6. [mastering-php-design-patterns PDF](https://github.com/muthukumarse/books-1/blob/master/mastering-php-design-patterns/mastering-php-design-patterns.pdf)
+7. [laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices)
+
