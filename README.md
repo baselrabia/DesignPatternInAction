@@ -12,3 +12,25 @@ we can see some of the design pattern that we use day to day to help make our co
 1. cleaner
 2. maintainable 
 3. reusuable 
+
+<hr>
+
+## Patterns In Action
+
+### 1- Adapter Pattern 
+
+1. integration 3rd party APIs
+2. Depandancy inversion
+3. User the container to swap implementaions
+
+### 2- Startegy Pattern 
+
+1. Clean up branchaning logic in large clases
+2. In-depth refactoring 
+
+### 3- Factory Pattern 
+
+1. identify Factories hiding in code 
+2. Extract Class refactor 
+3. Take advantage of Auto-wriring Service Container
+
