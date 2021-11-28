@@ -23,16 +23,48 @@ we can see some of the design pattern that we use day to day to help make our co
 2. Depandancy inversion
 3. User the container to swap implementaions
 
+#### Benefits
+
+- Inverts dependency
+- Ability to swap out implementations
+- Easy to test
+
+
 ### 2- Startegy Pattern 
 
 1. Clean up branchaning logic in large clases
 2. In-depth refactoring 
+
+#### Benefits
+
+- Simplifies containing classes by removing conditional logic
+- Allows to defer decisions until runtime
+- Makes the clauses using the strategies "pluggable"
+
+
 
 ### 3- Factory Pattern 
 
 1. identify Factories hiding in code 
 2. Extract Class refactor 
 3. Take advantage of Auto-wriring Service Container
+
+#### Primmer
+
+- Only responsible for creating objects of a specific type
+- Encapsulate decision process for choosing the appropriate concretion
+
+#### Benefits
+
+- Moves creation logic out of dependant classes
+- Simple and composable
+- Lean on the Service Container to construct and inject
+
+
+
+
+
+
 
 <hr>
 
