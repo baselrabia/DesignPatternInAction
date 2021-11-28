@@ -11,7 +11,7 @@ so the examples that's given in the book don't really relate to us in everyday w
 we can see some of the design pattern that we use day to day to help make our code 
 1. cleaner
 2. maintainable 
-3. reusuable 
+3. reusable 
 
 <hr>
 
@@ -20,8 +20,15 @@ we can see some of the design pattern that we use day to day to help make our co
 ### 1- Adapter Pattern 
 
 1. integration 3rd party APIs
-2. Depandancy inversion
-3. User the container to swap implementaions
+2. Dependance inversion
+3. User the container to swap implementations
+
+
+#### Primer
+
+- Two Components with incompatible interfaces
+- Converts Messages passed between the components into something each can understand
+
 
 #### Benefits
 
@@ -30,16 +37,16 @@ we can see some of the design pattern that we use day to day to help make our co
 - Easy to test
 
 
-### 2- Startegy Pattern 
+### 2- Strategy Pattern 
 
-1. Clean up branchaning logic in large clases
+1. Clean up branching logic in large classes
 2. In-depth refactoring 
 
 #### Benefits
 
 - Simplifies containing classes by removing conditional logic
 - Allows to defer decisions until runtime
-- Makes the clauses using the strategies "pluggable"
+- Makes the clauses using the strategies "plugable"
 
 
 
@@ -47,9 +54,9 @@ we can see some of the design pattern that we use day to day to help make our co
 
 1. identify Factories hiding in code 
 2. Extract Class refactor 
-3. Take advantage of Auto-wriring Service Container
+3. Take advantage of Auto-wiring Service Container
 
-#### Primmer
+#### Primer
 
 - Only responsible for creating objects of a specific type
 - Encapsulate decision process for choosing the appropriate concretion

@@ -5,8 +5,24 @@
 ## Hello Adapter Pattern 
 
 1. integration 3rd party APIs
-2. Depandancy inversion
-3. User the container to swap implementaions
+2. Dependance inversion
+3. User the container to swap implementations
 
 
- 
+#### Primer
+
+- Two Components with incompatible interfaces
+- Converts Messages passed between the components into something each can understand
+
+#### Scenario
+
+- News aggregator
+- Want to provide "local news" in the sidebar
+- Geolocate based on IP Address
+
+
+#### Benefits
+
+- Inverts dependency
+- Ability to swap out implementations
+- Easy to test
