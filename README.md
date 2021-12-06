@@ -46,7 +46,7 @@ we can see some of the design pattern that we use day to day to help make our co
 
 - Simplifies containing classes by removing conditional logic
 - Allows to defer decisions until runtime
-- Makes the clauses using the strategies "plugable"
+- Makes the clauses using the strategies "pluggable"
 
 
 
